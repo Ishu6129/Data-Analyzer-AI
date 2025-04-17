@@ -81,7 +81,7 @@ DataPulse Pro is your **AI-powered data analysis companion** that transforms raw
 - **Browser**: Chrome/Firefox/Edge (latest versions)  
 - **Data Size**: Up to 200MB files  
 - **Internet Connection**: Required for AI features  
-- **Gemini API Key**: Required for smart suggestions (see [Quick Start](#quick-start))
+- **Gemini API Key**: Required for smart suggestions
 
 ---
 
@@ -97,11 +97,3 @@ DataPulse Pro uses cutting-edge AI from **Deepseek** and **Gemini** to power its
 - 💻 **GitHub Repo**: [https://github.com/Ishu6129/Data-Analyzer-AI](https://github.com/Ishu6129/Data-Analyzer-AI/tree/main)
 
 ---
-```
-
-Let me know if you'd like:
-- A separate section for contributors or issues
-- A badge (e.g., Streamlit deployed, license, Python version)
-- An `.env` alternative setup
-
-Ready to copy into your `README.md`!
