@@ -7,7 +7,7 @@ scikit-learn
 google-generativeai
 python-dotenv
 streamlit_tags
-plotly
+plotly  
 streamlit-toggle
 xgboost
 lightgbm
