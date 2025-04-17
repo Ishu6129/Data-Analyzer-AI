@@ -1,5 +1,3 @@
-# 📊 DataPulse Pro - User Guide
-
 ![DataPulse Pro Banner](https://github.com/Ishu6129/Data-Analyzer-AI-/blob/main/banner.png)
 
 ## 🌟 Welcome to DataPulse Pro!
