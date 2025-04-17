@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+google-generativeai
+python-dotenv
+streamlit_tags
+plotly
+streamlit-toggle
+xgboost
+lightgbm
