@@ -1,4 +1,3 @@
-```markdown
 # 📊 DataPulse Pro - User Guide
 
 ![DataPulse Pro Banner](https://github.com/Ishu6129/Data-Analyzer-AI-/blob/main/banner.png)
@@ -7,7 +6,6 @@
 
 DataPulse Pro is your **AI-powered data analysis companion** that transforms raw data into actionable insights with just a few clicks. Whether you're a data scientist, business analyst, or student, our intuitive interface makes advanced analytics accessible to everyone.
 
----
 
 ## 🚀 Quick Start
 
