@@ -9,11 +9,13 @@ from typing import Dict, Any
 
 def configure_gemini() -> genai.GenerativeModel:
     """Configure and return the Gemini model instance"""
-    api_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY", "")
-    if not api_key:
-        st.error("Missing Gemini API key")
-        return None
     
+    api_key = os.environ.get("GEMINI_API_KEY") or st.secrets["api_keys"].get("GEMINI_API_KEY")
+    
+    if not api_key:
+        st.error("❌ Gemini API key not configured in environment variables or .streamlit/secrets.toml.")
+        return None
+
     genai.configure(api_key=api_key)
     return genai.GenerativeModel('gemini-1.5-pro-latest')
 
