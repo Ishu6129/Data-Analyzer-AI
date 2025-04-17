@@ -59,7 +59,7 @@ DataPulse Pro is your **AI-powered data analysis companion** that transforms raw
 ## ⚙️ System Requirements
 
 - **Browser**: Chrome/Firefox/Edge (latest versions)  
-- **Data Size**: Up to 100MB files  
+- **Data Size**: Up to 200MB files  
 - **Internet Connection**: Required for AI features
 
 ---
