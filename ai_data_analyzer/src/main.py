@@ -299,7 +299,6 @@ def display_ml_readiness(analyzer):
                     )
             else:
                 st.success("✅ **Perfect Data!** No missing values found.", icon="🎉")
-                st.balloons()
             
             # ===== Enhanced Outlier Detection =====
             st.markdown("#### 📊 Outlier Detection")
